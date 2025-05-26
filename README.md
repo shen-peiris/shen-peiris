@@ -79,23 +79,23 @@
   <!-- Common tools -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="50" height="50"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="60" height="60"/>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="60" height="60"/>
 </p>
 
 ---
