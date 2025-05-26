@@ -69,8 +69,9 @@
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="60" width="60"/>
   </a>
   <a href="https://shenpeiris.me" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" alt="Website" height="60" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="60" width="60"/>
 </a>
+
 
 
   
