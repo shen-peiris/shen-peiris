@@ -56,18 +56,22 @@
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://www.youtube.com/@ShenPeiris" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube" height="50" width="50"/>
+    <img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube" height="60" width="60"/>
   </a>
   <a href="www.linkedin.com/in/shen-peiris" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="60" width="60"/>
   </a>
   
   <a href="https://web.facebook.com/shen.peiris.99/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="60" width="60"/>
   </a>
   <a href="https://www.instagram.com/__shen_peiris__/" target="_blank">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50"/>
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="60" width="60"/>
   </a>
+  <a href="https://shenpeiris.me" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" alt="Website" height="60" width="60"/>
+</a>
+
 
   
 </p>
@@ -77,8 +81,8 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <!-- Common tools -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="60" height="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="60" height="60"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60" height="60"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60" height="60"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60" height="60"/>
