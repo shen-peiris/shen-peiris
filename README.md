@@ -21,8 +21,7 @@
 - 💬 Ask me about **Cloud Engineering**
 - 📫 Reach me at:  
   - **hello@shenpeiris.me**  
-  - **shenpeiris99@gmail.com**
-- ⚡ Fun fact: **I eat JavaScript for breakfast**
+- ⚡ Fun fact: **I Love Cloud**
 
 </td>
 <td width="50%" align="center">
@@ -55,9 +54,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@ShenPeiris" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube" height="60" width="60"/>
-  </a>
+  
   <a href="www.linkedin.com/in/shen-peiris" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="60" width="60"/>
   </a>
