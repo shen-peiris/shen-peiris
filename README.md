@@ -109,25 +109,6 @@
 
 ---
 
-### 💸 Support Me
-
-<p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=XU7UTK92QCTWA" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" 
-         alt="Donate with PayPal" 
-         width="150" 
-         style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=XU7UTK92QCTWA" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
-  </a>
-</p>
-
-
----
 
 <p align="center">
   <em>This profile is currently under construction. More awesome content coming soon! 🚧</em>
